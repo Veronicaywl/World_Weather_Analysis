@@ -22,5 +22,5 @@ These different categories of information can make it easy for travelers to choo
 ## Vacation Search 
 Based on traveler’s weather preferences, travelers can identify potential travel destinations and nearby hotels. The map shows destinations using pop-up markers on a marker layer-map.
 
-![WeatherPy Vacation Map](data/WeatherPy_vacation_map.png)
+![WeatherPy Vacation Map](images/WeatherPy_vacation_map.png)
 
