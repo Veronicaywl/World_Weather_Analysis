@@ -29,5 +29,5 @@ Based on traveler’s weather preferences, travelers can identify potential trav
 Using the Google Directions API, a sample itinerary was created that shows the driving route between four cities in Japan.
 ![WeatherPy_travel_map](images/WeatherPy_travel_map.png)
 
-Also, as with the vacation search folder, there is a hotel at each location.
+In addition to vacation search, we are able to see there is a hotel at each location.
 ![WeatherPy_travel_map_markers](images/WeatherPy_travel_map_markers.png)
